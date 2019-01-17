@@ -1,0 +1,25 @@
+{
+  "name": "my-films-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokol147/MyFilmsList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokol147/MyFilmsList/issues"
+  },
+  "homepage": "https://github.com/sokol147/MyFilmsList#readme",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
